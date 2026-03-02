@@ -1,4 +1,6 @@
 *.o
 *.exe
 build/
+a.out
+*.swp
 .vscode/
